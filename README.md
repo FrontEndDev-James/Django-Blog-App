@@ -2,5 +2,5 @@
 
 Features Include
 
-- Password Reset 
+- Password Reset -
   Enter an email address linked to the account that you'd like to reset the password for
