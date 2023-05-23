@@ -18,3 +18,11 @@ Features Include
 - Sidebar Navigation - 
   The links include latest posts, announcements, calendars, etc. (DEAD LINKS!)
   ![image](https://github.com/FrontEndDev-James/Django-Blog-App/assets/67937330/1eede757-0edc-4a95-bf31-bb7c7d2c4dab)
+
+- User Profile - 
+  Users can view their profile and change any info linked to their accounts (i.e., username, email, profile picture)
+  ![image](https://github.com/FrontEndDev-James/Django-Blog-App/assets/67937330/d48275d6-cb31-447b-b3a8-ce8e44d5c00d)
+
+- Creating New Posts - 
+  Users with registered accounts can create new posts 
+  ![image](https://github.com/FrontEndDev-James/Django-Blog-App/assets/67937330/9759024a-3c3e-4aa2-8b08-b88a98bb06ad)
